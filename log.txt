@@ -1,0 +1,4 @@
+2022-07-12 19:03:56 /home/spike/workspace/project1/measure/sen2.txt test_write 27071 write s��\q"��l��7�"٣ꗂ�c|�v�ρ=m right
+2022-07-12 19:03:58 /home/spike/workspace/project1/measure/sen2.txt test_write 27097 write s��\q"��l��7�"٣ꗂ�c|�v�ρ=m right
+2022-07-12 19:06:04 /home/spike/workspace/project1/measure/sen1.txt test_read 27471 read v�_���pf�)�Ry�w����bGu�-���} right
+2022-07-12 19:06:07 /home/spike/workspace/project1/measure/sen1.txt test_read 27561 read v�_���pf�)�Ry�w����bGu�-���} right

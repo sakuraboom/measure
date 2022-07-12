@@ -1,0 +1,2 @@
+/home/spike/workspace/project1/measure/sen2.txt
+dasdas

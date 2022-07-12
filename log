@@ -1,0 +1,83 @@
+[ 1193.266268] Monitor init
+[ 1193.269491] Loading the netlink module
+[ 1203.630603] my_execve!	my_execve_hook64	test_excve	3589
+[ 1203.761360] virstart:0x558cce0d2000
+               virend:0x558cce0d5000
+               processname:test_excve
+[ 1203.761360] virstart:0x558cce0d2000
+               virend:0x558cce0d5000
+[ 1203.761379] curr_vir_addr:00000CE0D2000   
+[ 1203.761380] curr_offset:-966326640  
+[ 1203.761380] pfn:000000001029F 
+[ 1203.761380] physical_page_addr:000001029F000
+[ 1203.761389] writesize:4096
+[ 1203.761389] curr_vir_addr:00000CE0D3000   
+[ 1203.761389] curr_offset:-966326640  
+[ 1203.761389] pfn:0000000047AEF 
+[ 1203.761390] physical_page_addr:0000047AEF000
+[ 1203.761395] writesize:4096
+[ 1203.761395] curr_vir_addr:00000CE0D4000   
+[ 1203.761395] curr_offset:-966326640  
+[ 1203.761395] pfn:000000001516F 
+[ 1203.761395] physical_page_addr:000001516F000
+[ 1203.761398] writesize:4096
+[ 1203.761406] call_usermodehelper module isstarting..!
+[ 1203.870630] ret=0
+[ 1203.870639] processtexthash:15826866b2a3a92a220a0cea93ccdc536ca38d1c92d9107a1de5830fc4798dd7
+[ 1203.870639] ____elftexthash:15826866b2a3a92a220a0cea93ccdc536ca38d1c92d9107a1de5830fc4798dd7
+[ 1203.870685] page hash right
+[ 1208.907679] my_read!
+               /home/whisper/Documents/measure/sen1.txt
+[ 1208.994389] virstart:0x561c23ce6000
+               virend:0x561c23ce9000
+               processname:test_read
+[ 1208.994391] virstart:0x561c23ce6000
+               virend:0x561c23ce9000
+[ 1208.994413] curr_vir_addr:0000023CE6000   
+[ 1208.994413] curr_offset:236054320  
+[ 1208.994414] pfn:0000000058FCC 
+[ 1208.994414] physical_page_addr:0000058FCC000
+[ 1208.994424] writesize:4096
+[ 1208.994424] curr_vir_addr:0000023CE7000   
+[ 1208.994424] curr_offset:236054320  
+[ 1208.994425] pfn:0000000058FCD 
+[ 1208.994425] physical_page_addr:0000058FCD000
+[ 1208.994429] writesize:4096
+[ 1208.994429] curr_vir_addr:0000023CE8000   
+[ 1208.994429] curr_offset:236054320  
+[ 1208.994429] pfn:0000000058FCE 
+[ 1208.994430] physical_page_addr:0000058FCE000
+[ 1208.994432] writesize:4096
+[ 1208.994440] call_usermodehelper module isstarting..!
+[ 1209.115757] ret=0
+[ 1209.115764] processtexthash:355ad6663532194678c42ab9c2712e50dbad396c5982b9080eb51d642e5074ab
+[ 1209.115765] ____elftexthash:355ad6663532194678c42ab9c2712e50dbad396c5982b9080eb51d642e5074ab
+[ 1209.115806] page hash right
+[ 1214.584788] my_write!
+               /home/whisper/Documents/measure/sen2.txt
+[ 1214.656963] virstart:0x55df1e498000
+               virend:0x55df1e49b000
+               processname:test_write
+[ 1214.656964] virstart:0x55df1e498000
+               virend:0x55df1e49b000
+[ 1214.656982] curr_vir_addr:000001E498000   
+[ 1214.656983] curr_offset:-275831616  
+[ 1214.656983] pfn:0000000033D21 
+[ 1214.656983] physical_page_addr:0000033D21000
+[ 1214.656990] writesize:4096
+[ 1214.656991] curr_vir_addr:000001E499000   
+[ 1214.656991] curr_offset:-275831616  
+[ 1214.656991] pfn:0000000033D22 
+[ 1214.656991] physical_page_addr:0000033D22000
+[ 1214.656994] writesize:4096
+[ 1214.656995] curr_vir_addr:000001E49A000   
+[ 1214.656995] curr_offset:-275831616  
+[ 1214.656995] pfn:0000000033D23 
+[ 1214.656995] physical_page_addr:0000033D23000
+[ 1214.656997] writesize:4096
+[ 1214.657003] call_usermodehelper module isstarting..!
+[ 1214.773582] ret=0
+[ 1214.773589] processtexthash:9c30e467a1ca2fcd46369c0b947c0118df54313dec4beea102583041d3671c1f
+[ 1214.773590] ____elftexthash:9c30e467a1ca2fcd46369c0b947c0118df54313dec4beea102583041d3671c1f
+[ 1214.773629] page hash right
+[ 1222.968116] Monitor exit
